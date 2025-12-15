@@ -132,7 +132,7 @@ Running on local URL: http://127.0.0.1:7860
 
 |     **UI 화면**      |    **업로드와 결과**     |
 |:---------------------------:|:---------------------:|
-| ![어큐러시](img/ui.jpg) | ![로스](img/input_output.png) |
+| ![어큐러시](img/ui.png) | ![로스](img/input_output.png) |
 
 ---
 
